@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Tapas Adhikary",
+        "hobbies": [
+          "blogging",
+          "eating",
+          "sleeping",
+          "Travel"
+        ],
+        "job": "Blogger",
+        "salary": 2060,
+        "id": 1
+    },
+    {
+        "name": "James Bond",
+        "hobbies": [
+          "investigating",
+          "spying",
+          "romancing"
+        ],
+        "job": "Spy",
+        "salary": 67890800000,
+        "id": 2
+    },
+    {
+        "name": "Mr. Trump",
+        "hobbies": [
+          "NA"
+        ],
+        "job": "I know it best",
+        "salary": 5673099094800238094932083,
+        "id": 3
+    },
+    {
+        "name": "Harry Gibson",
+        "hobbies": [
+          "Soccer"
+        ],
+        "job": "Dentist",
+        "salary": 10084038403,
+        "id": 4
+    },
+    {
+        "name": "Alex",
+        "hobbies": [
+          "Music",
+          "dance"
+        ],
+        "job": "Technical Writer",
+        "salary": 500,
+        "id": 5
+    }
+]
